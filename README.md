@@ -10,7 +10,6 @@
 
 - 💬 [开心技术圈](https://vkceyugu.cdn.bspapp.com/VKCEYUGU-0971f295-ba06-4d1c-8c5f-e03738f37c87/432b9967-dc74-4f3f-abd6-1a69942de7aa.png)，一起分享技术吧:beers::beers::beers:。
 - 📫 我的邮箱: [sw20026@163.com](sw20026@163.com);
-- 📝 [我的主页](https://static-0971f295-ba06-4d1c-8c5f-e03738f37c87.bspapp.com)
 
 :rocket:**技术栈 与 开发工具:**
 
