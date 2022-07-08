@@ -1,7 +1,7 @@
 ### Hey，我是MotainZhang
 <br />
 
-你好， 我是 [MotainZhang] ，出生于1995年，一位有5年工作经验的前端开发工程师。
+你好， 我是 [MotainZhang]
 
 :see_no_evil::see_no_evil::see_no_evil:生活不止眼前的苟且，还有诗和远方~~~
 
