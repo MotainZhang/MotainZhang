@@ -12,14 +12,13 @@
 - 📫 我的邮箱: [sw20026@163.com](sw20026@163.com);
 - 📝 [我的主页](static-0971f295-ba06-4d1c-8c5f-e03738f37c87.bspapp.com)
 
-**技术栈 与 开发工具:**
+:rocket:**技术栈 与 开发工具:**
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MotainZhang&layout=compact)](https://github.com/MotainZhang/github-readme-stats)
 
 
 😉**我的开源项目:**
-[![tree's GitHub stats](https://github-readme-stats.vercel.app/api?username=MotainZhang&
-hide=contribs,prs&show_icons=true&theme=radical)](https://github.com/MotainZhang/github-readme-stats)
+[![MotainZhang's GitHub stats](https://github-readme-stats.vercel.app/api?username=MotainZhang)](https://github.com/MotainZhang/github-readme-stats)
 
-
+:sparkles:**来看统计啦:**
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=MotainZhang&theme=dracula)](https://github.com/MotainZhang/github-readme-activity-graph)
