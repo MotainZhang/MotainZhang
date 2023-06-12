@@ -8,8 +8,6 @@
 
 <img align="right" alt="GIF" src="https://github.com/MotainZhang/MotainZhang/blob/main/coder.gif" width="330" height="100%" />
 
-- 💬 [开心技术圈](https://vkceyugu.cdn.bspapp.com/VKCEYUGU-0971f295-ba06-4d1c-8c5f-e03738f37c87/432b9967-dc74-4f3f-abd6-1a69942de7aa.png)，一起分享技术吧:beers::beers::beers:。
-- 📫 我的邮箱: [sw20026@163.com](sw20026@163.com);
 
 :rocket:**技术栈 与 开发工具:**
 
@@ -19,5 +17,5 @@
 😉**我的开源项目:**
 [![MotainZhang's GitHub stats](https://github-readme-stats.vercel.app/api?username=MotainZhang)](https://github.com/MotainZhang/github-readme-stats)
 
-:sparkles:**来看统计啦:**
+:sparkles:**统计:**
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=MotainZhang&theme=dracula)](https://github.com/MotainZhang/github-readme-activity-graph)
