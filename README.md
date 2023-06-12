@@ -16,6 +16,3 @@
 
 😉**我的开源项目:**
 [![MotainZhang's GitHub stats](https://github-readme-stats.vercel.app/api?username=MotainZhang)](https://github.com/MotainZhang/github-readme-stats)
-
-:sparkles:**统计:**
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=MotainZhang&theme=dracula)](https://github.com/MotainZhang/github-readme-activity-graph)
