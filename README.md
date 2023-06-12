@@ -12,7 +12,4 @@
 :rocket:**技术栈 与 开发工具:**
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MotainZhang&layout=compact)](https://github.com/MotainZhang/github-readme-stats)
-
-
-😉**我的开源项目:**
 [![MotainZhang's GitHub stats](https://github-readme-stats.vercel.app/api?username=MotainZhang)](https://github.com/MotainZhang/github-readme-stats)
